@@ -19,7 +19,6 @@ An interactive maze generator and solver built with Python and Pygame. This appl
 
 ![Maze Solver Preview](/Maze_solver.png)
 
----
 
 ## Controls
 
@@ -29,7 +28,6 @@ An interactive maze generator and solver built with Python and Pygame. This appl
 | Regenerate Maze        | R key         |
 | Quit                   | Close window  |
 
----
 
 ## Color Legend
 
@@ -41,13 +39,3 @@ An interactive maze generator and solver built with Python and Pygame. This appl
 | Forest Green   | `#00712D`     | Start cell       |
 | Bright Red     | `#F93827`     | End cell         |
 | Lavender Gray  | `#9290C3`     | Search progress  |
-
----
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/maze-solver.git
-cd maze-solver
